@@ -35,13 +35,13 @@ const CoursePage = () =>{
         {
             "id": 3,
             "title": "Senior Java Developer in Sky Booking Co., Ltd",
-            "image": "https://api.istad.co/media/image/ebb72f6e-6c2f-4e04-bc75-37253c41555e.png",
+            "image": "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
             "description": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like MacOS, Windows and Linux using one code base. We also include with UI / UX design concept. Moreover, integrate with third-party libraries and other mobile functionality to make your app more professional.",
         },
         {
             "id": 4,
             "title": "ឱកាសការងារដែលសិស្សនិស្សិតនឹងទទួលបានក្រោយបញ្ចប់ការសិក្សានៅ ISTAD",
-            "image": "https://api.istad.co/media/image/5672e61a-d0bb-4040-a0d6-0c934cbba92e.png",
+            "image": "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
             "description": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like MacOS, Windows and Linux using one code base. We also include with UI / UX design concept. Moreover, integrate with third-party libraries and other mobile functionality to make your app more professional.",
         },
         {
@@ -59,13 +59,13 @@ const CoursePage = () =>{
         {
             "id": 3,
             "title": "Senior Java Developer in Sky Booking Co., Ltd",
-            "image": "https://api.istad.co/media/image/ebb72f6e-6c2f-4e04-bc75-37253c41555e.png",
+            "image": "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
             "description": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like MacOS, Windows and Linux using one code base. We also include with UI / UX design concept. Moreover, integrate with third-party libraries and other mobile functionality to make your app more professional.",
         },
         {
             "id": 4,
             "title": "ឱកាសការងារដែលសិស្សនិស្សិតនឹងទទួលបានក្រោយបញ្ចប់ការសិក្សានៅ ISTAD",
-            "image": "https://api.istad.co/media/image/5672e61a-d0bb-4040-a0d6-0c934cbba92e.png",
+            "image": "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
             "description": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like MacOS, Windows and Linux using one code base. We also include with UI / UX design concept. Moreover, integrate with third-party libraries and other mobile functionality to make your app more professional.",
         },
         {
@@ -77,7 +77,7 @@ const CoursePage = () =>{
         {
             "id": 4,
             "title": "ឱកាសការងារដែលសិស្សនិស្សិតនឹងទទួលបានក្រោយបញ្ចប់ការសិក្សានៅ ISTAD",
-            "image": "https://api.istad.co/media/image/5672e61a-d0bb-4040-a0d6-0c934cbba92e.png",
+            "image": "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
             "description": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like MacOS, Windows and Linux using one code base. We also include with UI / UX design concept. Moreover, integrate with third-party libraries and other mobile functionality to make your app more professional.",
         },
         {
@@ -89,7 +89,7 @@ const CoursePage = () =>{
         {
             "id": 4,
             "title": "ឱកាសការងារដែលសិស្សនិស្សិតនឹងទទួលបានក្រោយបញ្ចប់ការសិក្សានៅ ISTAD",
-            "image": "https://api.istad.co/media/image/5672e61a-d0bb-4040-a0d6-0c934cbba92e.png",
+            "image": "https://api.istad.co/media/image/ca4fca81-5460-40c8-9d6b-e9270cd2ecae.png",
             "description": "Flutter course is designed to develop multi-platform like iOS and Android App, Web, Desktop apps like MacOS, Windows and Linux using one code base. We also include with UI / UX design concept. Moreover, integrate with third-party libraries and other mobile functionality to make your app more professional.",
         }]
     return(

@@ -7,8 +7,6 @@ import {FaMapMarker} from "react-icons/fa";
 import {MdEmail} from "react-icons/md";
 
 export default function AboutUs() {
-    // @ts-ignore
-    // @ts-ignore
     return (
         <div className="container mx-auto grid grid-cols-1 gap-4 my-8">
             <div className="bg-white p-6 grid grid-cols-1 gap-2">
