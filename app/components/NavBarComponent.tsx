@@ -23,12 +23,12 @@ const NavBarComponent = () =>{
                         </NavbarLink>
                         <NavbarLink href="/course"
                                     className="text-lg text-white hover:text-primary lg:hover:text-white">Course</NavbarLink>
-                        <NavbarLink href="/it-news"
+                        <NavbarLink href="/news"
                                     className="text-lg text-white hover:text-primary lg:hover:text-white">IT
                             News</NavbarLink>
                         <NavbarLink href="/job" className="text-lg text-white hover:text-primary lg:hover:text-white">Job
                             Opportunity</NavbarLink>
-                        <NavbarLink href="/about-us"
+                        <NavbarLink href="/about"
                                     className="text-lg text-white hover:text-primary lg:hover:text-white">About
                             Us</NavbarLink>
                     </NavbarCollapse>
